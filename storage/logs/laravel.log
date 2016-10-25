@@ -1,0 +1,3 @@
+[2016-10-25 09:38:54] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected 'Route' (T_STRING)' in /home/mycomputer/Documents/example/laravel-blog/routes/web.php:14
+Stack trace:
+#0 {main}  
